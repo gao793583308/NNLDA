@@ -2,11 +2,11 @@ Title: Deep learning enables accurate prediction of interplay between lncRNA and
 ====================
 ###########################################################################################
 
-1.data
+### 1.data
 
 The experimental data are downloaded from [LncRNADiseas2.0 database](http://www.rnanut.net/lncrnadisease/)
 
-2. Implementation
+### 2.Implementation
 
 NNLDA is implemented in Python 3.5 and use Tensorflow 1.12.0. Package numpy and pandas are also required.
 
