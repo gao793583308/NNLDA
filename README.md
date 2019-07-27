@@ -17,5 +17,4 @@ Package numpy and pandas are also required.
       python train_model.py
 ### make prediciton
       python make_prediction.py
-      Then you need to enter the name of the disease you need to predict.
-      A scoring file will be generater when the prediciton is completed
+Then you need to enter the name of the disease you need to predict. A scoring file will be generater when the prediciton is completed
