@@ -8,8 +8,7 @@ The experimental data are downloaded from [LncRNADiseas2.0 database](http://www.
 
 2. Implementation
 
-NNLDA is implemented in Python 3.5 and use Tensorflow 1.12.0.
-Package numpy and pandas are also required.
+NNLDA is implemented in Python 3.5 and use Tensorflow 1.12.0. Package numpy and pandas are also required.
 
 ###########################################################################################
 ## This section introduces how to run NNLDA to make prediction
