@@ -16,4 +16,4 @@ NNLDA is implemented in Python 3.5 and use Tensorflow 1.12.0. Package numpy and 
       python train_model.py
 ### make prediciton
       python make_prediction.py
-Then you need to enter the name of the disease you need to predict. A scoring file will be generater when the prediciton is completed
+Then you need to enter the name of the disease which you need to predict. A scoring file will be generater when the prediciton is completed
